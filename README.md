@@ -16,9 +16,9 @@ This application is a web scraper that extracts data from the popular housing fo
 ## Folders in the Repository
 The repository has the following folders:
 
--[scraped_data](scraped_data): This folder contains examples of scraped data from the websites listing apartments for sale. The data is stored in CSV format.
--[cleaned_data](cleaned_data): This folder contains examples of cleaned data resulting from the data_cleaning.ipynb process. The cleaned data is stored in CSV format.
--[old_versions](old_versions): This folder contains previous versions of the scraper that were working.
+* [scraped_data](scraped_data): This folder contains examples of scraped data from the websites listing apartments for sale. The data is stored in CSV format.
+* [cleaned_data](cleaned_data): This folder contains examples of cleaned data resulting from the data_cleaning.ipynb process. The cleaned data is stored in CSV format.
+* [old_versions](old_versions): This folder contains previous versions of the scraper that were working.
 
 
 ## Getting Started

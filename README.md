@@ -1,4 +1,4 @@
-# Real-Estate-Scraper
+# Real Estate Scraper
 This application is a **web scraper** that extracts data from the popular housing for sale website. The purpose of the scraper is to gather data on the available apartments and present it in a **structured format**. In addition to basic data about the apartment, the scraper also downloads **latitude and longitude**, which can be used for **geospatial analyzes**.
 
 #### Project Status: [Completed]
